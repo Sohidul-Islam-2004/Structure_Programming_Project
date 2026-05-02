@@ -1,34 +1,20 @@
-# 🛒 Online Shop Management System
+# 📚 Structured Programming Course Projects - C Language
 
 
-A console-based **Online Shop Management System** developed in C as a first-year university project. This system allows administrators to manage products and customers to browse and purchase items with automatic stock updates and receipt generation.
+> **Course:** Structured Programming Language (C Language) - First Semester  
 
-## 🎯 Project Overview
 
-This was my first-ever university programming project, built to demonstrate fundamental C programming concepts including:
+This repository contains **two complete C programming projects** developed as part of my Structured Programming course. Both projects demonstrate fundamental programming concepts including structures, arrays, functions, file handling, and user input validation.
 
-- Structures (`struct`)
-- Arrays and loops
-- Functions and modular programming
-- String manipulation
-- Input/output operations
-- Basic data persistence
+---
 
-## ✨ Features
+## 📦 Projects Included
 
-### 👑 Admin Panel
-| Feature | Description |
-|---------|-------------|
-| Secure Login | Email and password authentication |
-| Add Products | Add new products with ID, name, price, and quantity |
-| Update Stock | Increase product quantities |
-| View Products | Display all available products with details |
+| # | Project Name | Description | Lines of Code |
+|---|--------------|-------------|---------------|
+| 1 | **Student Management System** | Complete student record management with CRUD operations, grade calculation, and search functionality | 350+ |
+| 2 | **Online Shop Management System** | Inventory management system with admin panel, product management, and customer billing | 150+ |
 
-### 👤 Customer Panel
-| Feature | Description |
-|---------|-------------|
-| Browse Products | View all products with prices and quantities |
-| Purchase Items | Buy products with stock validation |
-| Payment Receipt | Auto-generate receipt with total calculation |
-| Stock Updates | Automatic inventory deduction after purchase |
+
+
 
