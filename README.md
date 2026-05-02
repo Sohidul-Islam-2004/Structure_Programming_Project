@@ -1,9 +1,6 @@
 # 🛒 Online Shop Management System
 
-[![C](https://img.shields.io/badge/C-Programming-00599C.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Platform](https://img.shields.io/badge/Platform-Cross%20Platform-lightgrey.svg)](https://)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![University](https://img.shields.io/badge/First%20Year-Project-blue.svg)]()
+[![University](https://img.shields.io/badge/First%Semester-Project-blue.svg)]()
 
 A console-based **Online Shop Management System** developed in C as a first-year university project. This system allows administrators to manage products and customers to browse and purchase items with automatic stock updates and receipt generation.
 
