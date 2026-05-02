@@ -1,7 +1,7 @@
 # 📚 Structured Programming Course Projects - C Language
 
 
-> **Course:** Structured Programming Language (C Language) - First Semester  
+> **Course:** CSE103 - First Semester  
 
 
 This repository contains **two complete C programming projects** developed as part of my Structured Programming course. Both projects demonstrate fundamental programming concepts including structures, arrays, functions, file handling, and user input validation.
